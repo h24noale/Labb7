@@ -93,12 +93,15 @@ class Program
 
         // Skriver ut noden med indrag beroende på nivå
         Console.WriteLine(new string(' ', level * 2) + node.Name);
+        // Besöker syskonnoden
+        TraversePreOrder(node.NextSibling, level);
 
         // Besöker barnnoden
         TraversePreOrder(node.FirstChild, level + 1);
 
-        // Besöker syskonnoden
-        TraversePreOrder(node.NextSibling, level);
+        
+
+
     }
 
      /// In-order traversal för binärt sökträd.
