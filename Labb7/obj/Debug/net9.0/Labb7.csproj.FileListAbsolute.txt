@@ -12,3 +12,4 @@ C:\Users\camil\OneDrive\Skrivbord\Skola\Algoritmer\Labb7\Labb7\obj\Debug\net9.0\
 C:\Users\camil\OneDrive\Skrivbord\Skola\Algoritmer\Labb7\Labb7\obj\Debug\net9.0\Labb7.pdb
 C:\Users\camil\OneDrive\Skrivbord\Skola\Algoritmer\Labb7\Labb7\obj\Debug\net9.0\Labb7.genruntimeconfig.cache
 C:\Users\camil\OneDrive\Skrivbord\Skola\Algoritmer\Labb7\Labb7\obj\Debug\net9.0\ref\Labb7.dll
+C:\Users\camil\OneDrive\Skrivbord\Skola\Algoritmer\Labb7\Labb7\obj\Debug\net9.0\Labb7.sourcelink.json
